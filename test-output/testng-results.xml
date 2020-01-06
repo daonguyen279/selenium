@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="3" ignored="0" total="12" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="214774" started-at="2020-01-06T02:23:46Z" finished-at="2020-01-06T02:27:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="214774" started-at="2020-01-06T02:23:46Z" finished-at="2020-01-06T02:27:21Z">
+      <class name="Test.Test2">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Test.Test2@59fa1d9b]" name="beforeClass" is-config="true" duration-ms="10886" started-at="2020-01-06T02:23:46Z" finished-at="2020-01-06T02:23:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.Test2@59fa1d9b]" name="beforeMethod" is-config="true" duration-ms="5857" started-at="2020-01-06T02:23:57Z" finished-at="2020-01-06T02:24:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC01_ValidLogin()[pri:0, instance:Test.Test2@59fa1d9b]" name="TC01_ValidLogin" duration-ms="2255" started-at="2020-01-06T02:24:03Z" finished-at="2020-01-06T02:24:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_ValidLogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.Test2@59fa1d9b]" name="afterMethod" is-config="true" duration-ms="1269" started-at="2020-01-06T02:24:06Z" finished-at="2020-01-06T02:24:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.Test2@59fa1d9b]" name="beforeMethod" is-config="true" duration-ms="971" started-at="2020-01-06T02:24:07Z" finished-at="2020-01-06T02:24:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC02_LoginWithBlankUsername()[pri:0, instance:Test.Test2@59fa1d9b]" name="TC02_LoginWithBlankUsername" duration-ms="1419" started-at="2020-01-06T02:24:08Z" finished-at="2020-01-06T02:24:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_LoginWithBlankUsername -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.Test2@59fa1d9b]" name="afterMethod" is-config="true" duration-ms="10072" started-at="2020-01-06T02:24:09Z" finished-at="2020-01-06T02:24:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.Test2@59fa1d9b]" name="beforeMethod" is-config="true" duration-ms="948" started-at="2020-01-06T02:24:19Z" finished-at="2020-01-06T02:24:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC03_LoginWithInvalidPass()[pri:0, instance:Test.Test2@59fa1d9b]" name="TC03_LoginWithInvalidPass" duration-ms="1457" started-at="2020-01-06T02:24:20Z" finished-at="2020-01-06T02:24:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03_LoginWithInvalidPass -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.Test2@59fa1d9b]" name="afterMethod" is-config="true" duration-ms="10044" started-at="2020-01-06T02:24:22Z" finished-at="2020-01-06T02:24:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.Test2@59fa1d9b]" name="beforeMethod" is-config="true" duration-ms="909" started-at="2020-01-06T02:24:32Z" finished-at="2020-01-06T02:24:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC04_RedirectToBookTicketAfterLogin()[pri:0, instance:Test.Test2@59fa1d9b]" name="TC04_RedirectToBookTicketAfterLogin" duration-ms="2204" started-at="2020-01-06T02:24:33Z" finished-at="2020-01-06T02:24:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04_RedirectToBookTicketAfterLogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.Test2@59fa1d9b]" name="afterMethod" is-config="true" duration-ms="1297" started-at="2020-01-06T02:24:35Z" finished-at="2020-01-06T02:24:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.Test2@59fa1d9b]" name="beforeMethod" is-config="true" duration-ms="901" started-at="2020-01-06T02:24:36Z" finished-at="2020-01-06T02:24:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC07_ValidRegister()[pri:0, instance:Test.Test2@59fa1d9b]" name="TC07_ValidRegister" duration-ms="5066" started-at="2020-01-06T02:24:37Z" finished-at="2020-01-06T02:24:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC07_ValidRegister -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.Test2@59fa1d9b]" name="afterMethod" is-config="true" duration-ms="10021" started-at="2020-01-06T02:24:42Z" finished-at="2020-01-06T02:24:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.Test2@59fa1d9b]" name="beforeMethod" is-config="true" duration-ms="896" started-at="2020-01-06T02:24:52Z" finished-at="2020-01-06T02:24:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC08_LoginWithUnActiveAccount()[pri:0, instance:Test.Test2@59fa1d9b]" name="TC08_LoginWithUnActiveAccount" duration-ms="4311" started-at="2020-01-06T02:24:53Z" finished-at="2020-01-06T02:24:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC08_LoginWithUnActiveAccount -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.Test2@59fa1d9b]" name="afterMethod" is-config="true" duration-ms="10026" started-at="2020-01-06T02:24:57Z" finished-at="2020-01-06T02:25:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.Test2@59fa1d9b]" name="beforeMethod" is-config="true" duration-ms="949" started-at="2020-01-06T02:25:07Z" finished-at="2020-01-06T02:25:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC09_ChangePasswordWithWrongConfirmPassword()[pri:0, instance:Test.Test2@59fa1d9b]" name="TC09_ChangePasswordWithWrongConfirmPassword" duration-ms="17274" started-at="2020-01-06T02:25:08Z" finished-at="2020-01-06T02:25:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC09_ChangePasswordWithWrongConfirmPassword -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.Test2@59fa1d9b]" name="afterMethod" is-config="true" duration-ms="1223" started-at="2020-01-06T02:25:26Z" finished-at="2020-01-06T02:25:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.Test2@59fa1d9b]" name="beforeMethod" is-config="true" duration-ms="879" started-at="2020-01-06T02:25:27Z" finished-at="2020-01-06T02:25:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC10_RegisterWithUsedEmail()[pri:0, instance:Test.Test2@59fa1d9b]" name="TC10_RegisterWithUsedEmail" duration-ms="9139" started-at="2020-01-06T02:25:28Z" finished-at="2020-01-06T02:25:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC10_RegisterWithUsedEmail -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.Test2@59fa1d9b]" name="afterMethod" is-config="true" duration-ms="10026" started-at="2020-01-06T02:25:37Z" finished-at="2020-01-06T02:25:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.Test2@59fa1d9b]" name="beforeMethod" is-config="true" duration-ms="949" started-at="2020-01-06T02:25:47Z" finished-at="2020-01-06T02:25:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC11_RegisterWithBlankPassAndPid()[pri:0, instance:Test.Test2@59fa1d9b]" name="TC11_RegisterWithBlankPassAndPid" duration-ms="2037" started-at="2020-01-06T02:25:48Z" finished-at="2020-01-06T02:25:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC11_RegisterWithBlankPassAndPid -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.Test2@59fa1d9b]" name="afterMethod" is-config="true" duration-ms="10023" started-at="2020-01-06T02:25:50Z" finished-at="2020-01-06T02:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.Test2@59fa1d9b]" name="beforeMethod" is-config="true" duration-ms="1003" started-at="2020-01-06T02:26:00Z" finished-at="2020-01-06T02:26:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="TC12_ResetPasswordWithBlankResetToken()[pri:0, instance:Test.Test2@59fa1d9b]" name="TC12_ResetPasswordWithBlankResetToken" duration-ms="16925" started-at="2020-01-06T02:26:01Z" finished-at="2020-01-06T02:26:18Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [The password reset token is incorrect or may be expired. Visit the forgot password page to generate a new one.] but found [Password changed! Click here to login.]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [The password reset token is incorrect or may be expired. Visit the forgot password page to generate a new one.] but found [Password changed! Click here to login.]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:453)
+at org.testng.Assert.assertEquals(Assert.java:463)
+at Test.Test2.TC12_ResetPasswordWithBlankResetToken(Test2.java:110)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC12_ResetPasswordWithBlankResetToken -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.Test2@59fa1d9b]" name="afterMethod" is-config="true" duration-ms="10021" started-at="2020-01-06T02:26:18Z" finished-at="2020-01-06T02:26:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.Test2@59fa1d9b]" name="beforeMethod" is-config="true" duration-ms="887" started-at="2020-01-06T02:26:28Z" finished-at="2020-01-06T02:26:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="TC13_ResetPasswordWithDiffrentPassAndConfirmPass()[pri:0, instance:Test.Test2@59fa1d9b]" name="TC13_ResetPasswordWithDiffrentPassAndConfirmPass" duration-ms="17145" started-at="2020-01-06T02:26:29Z" finished-at="2020-01-06T02:26:46Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [The password reset token is incorrect or may be expired. Visit the forgot password page to generate a new one.] but found [Could not reset password. Please correct the errors and try again.]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [The password reset token is incorrect or may be expired. Visit the forgot password page to generate a new one.] but found [Could not reset password. Please correct the errors and try again.]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:453)
+at org.testng.Assert.assertEquals(Assert.java:463)
+at Test.Test2.TC13_ResetPasswordWithDiffrentPassAndConfirmPass(Test2.java:127)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC13_ResetPasswordWithDiffrentPassAndConfirmPass -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.Test2@59fa1d9b]" name="afterMethod" is-config="true" duration-ms="10009" started-at="2020-01-06T02:26:46Z" finished-at="2020-01-06T02:26:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.Test2@59fa1d9b]" name="beforeMethod" is-config="true" duration-ms="919" started-at="2020-01-06T02:26:56Z" finished-at="2020-01-06T02:26:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="TC14_BookMutileTickets()[pri:0, instance:Test.Test2@59fa1d9b]" name="TC14_BookMutileTickets" duration-ms="21782" started-at="2020-01-06T02:26:57Z" finished-at="2020-01-06T02:27:19Z">
+          <exception class="org.openqa.selenium.StaleElementReferenceException">
+            <message>
+              <![CDATA[The element reference of <select name="ArriveStation"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LGDN18-1209-W10', ip: '192.168.190.234', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190917135527, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 8832, moz:profile: C:\Users\dao.hong.nguyen\Ap..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 0fd6439f-fbf1-4487-b524-5c24741fab8e
+*** Element info: {Using=xpath, value=.//option[contains(., "S&agrave;i")]}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.StaleElementReferenceException: The element reference of <select name="ArriveStation"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LGDN18-1209-W10', ip: '192.168.190.234', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190917135527, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 8832, moz:profile: C:\Users\dao.hong.nguyen\Ap..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 0fd6439f-fbf1-4487-b524-5c24741fab8e
+*** Element info: {Using=xpath, value=.//option[contains(., "S&agrave;i")]}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+at org.openqa.selenium.remote.RemoteWebElement.findElements(RemoteWebElement.java:204)
+at org.openqa.selenium.remote.RemoteWebElement.findElementsByXPath(RemoteWebElement.java:265)
+at org.openqa.selenium.By$ByXPath.findElements(By.java:348)
+at org.openqa.selenium.remote.RemoteWebElement.findElements(RemoteWebElement.java:177)
+at org.openqa.selenium.support.ui.Select.selectByVisibleText(Select.java:132)
+at Page.BookTicketPage.selectArriveAt(BookTicketPage.java:72)
+at Test.Test2.TC14_BookMutileTickets(Test2.java:143)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.StaleElementReferenceException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC14_BookMutileTickets -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.Test2@59fa1d9b]" name="afterMethod" is-config="true" duration-ms="1227" started-at="2020-01-06T02:27:19Z" finished-at="2020-01-06T02:27:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Test.Test2@59fa1d9b]" name="afterClass" is-config="true" duration-ms="1481" started-at="2020-01-06T02:27:20Z" finished-at="2020-01-06T02:27:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Test.Test2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
